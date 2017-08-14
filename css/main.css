@@ -4,3 +4,14 @@ h1{
 h2{
     color: blue;
 }
+#raya{
+    text-decoration: underline red;
+
+}
+.purple{
+    color: purple;
+}
+.rayaazul{
+    color: blue;
+    text-decoration: underline blue;
+}
